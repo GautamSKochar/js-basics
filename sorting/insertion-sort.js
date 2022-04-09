@@ -1,4 +1,5 @@
-//  Works by building up a sortted array at the beginning selecting the min value in the list and swapping it with the first value in the list and so on until its reaches end of the list.
+//  Works by building up a sortted array at the beginning selecting the min value in the list
+// and swapping it with the first value in the list and so on until its reaches end of the list.
 
 function insertionSort(array) {
   const arr = array.slice();
